@@ -1,0 +1,9 @@
+{
+  "scenario": "after first assessment (G1)",
+  "cv_roc_auc": {
+    "LogisticRegression": 0.9174344776670358,
+    "RandomForest": 0.911968570373886
+  },
+  "best_model": "LogisticRegression",
+  "test_roc_auc": 0.8722786647314948
+}
